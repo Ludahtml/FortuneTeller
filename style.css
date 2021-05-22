@@ -18,18 +18,15 @@ position: relative;
     padding-top: 3%;
     padding-bottom: 2%;
 }
-
-
-
 button{
-    
     width: 300px;
     height: 50px;
     font-size: 1.5rem;
 position:relative;
-
-
+    dislay:flex;
+    color:yellow;
 }
+
 .container{
     text-align: center;
 }
